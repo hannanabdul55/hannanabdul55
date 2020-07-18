@@ -1,5 +1,5 @@
 ### Hi there, I am [Abdul Hannan Kanji](https://abdulhannan.in)👋 . 
-I am currently pursuing my Masters from University of Massachusetts Amherst. 
+I am a Masters at University of Massachusetts Amherst currently working on the [COVID-19 forecast hub](https://github.com/reichlab/covid19-forecast-hub) developed at the Reich Lab in UMass. 
 
 [![Abdul Hannan's github stats](https://github-readme-stats.vercel.app/api?username=hannanabdul55)](https://github.com/anuraghazra/github-readme-stats)
 <!--
