@@ -1,4 +1,5 @@
-### Hi there, I am [Abdul Hannan Kanji](https://abdulhannan.in)👋 
+### Hi there, I am [Abdul Hannan Kanji](https://abdulhannan.in)👋 . 
+I am currently pursuing my Masters from University of Massachusetts Amherst. 
 
 [![Abdul Hannan's github stats](https://github-readme-stats.vercel.app/api?username=hannanabdul55)](https://github.com/anuraghazra/github-readme-stats)
 <!--
